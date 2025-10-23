@@ -1,14 +1,14 @@
 <p align="center"><img src="https://www.wiley.com/content/dam/wiley-dotcom/en/b2c/images/company-logo/wiley-logo-black.svg" width="407" height="305" alt=""/></p>
 
-**Unlocking Human Potential Through Knowledge**
+**Transforming knowledge**
 
-For over 200 years, Wiley has been a global leader in research and education, championing those who see knowledge as a force for good. Founded in 1807, we are one of the world’s largest publishers, delivering authoritative content, innovative solutions, and data-driven insights to researchers, learners, educators, professionals, and institutions worldwide.
+We transform knowledge into accessible and actionable intelligence for today's challenges and tomorrow's possibilities. Through access to trusted research, data, and AI-powered platforms that power progress, we accelerate scientific breakthroughs, support learning, and drive innovation that redefine fields and improve lives. We're your partner in pioneering the future – in a world driven by curiosity and continuous discovery.
 
 ---
 
 ## About Us
 
-At Wiley, we empower knowledge-seekers to transform today’s biggest challenges into tomorrow’s brightest opportunities. From groundbreaking scientific discoveries to transformative educational resources, our mission is to break down barriers and advance human potential through trusted content and cutting-edge technology.
+With more than 200 years at the center of the scholarly ecosystem, Wiley combines trusted publishing heritage with AI-powered platforms to transform how knowledge is discovered, accessed, and applied. We are redefining what's possible in science and learning.
 
 - **Headquarters**: Hoboken, New Jersey, USA  
 - **Founded**: 1807  
@@ -70,7 +70,7 @@ Have a question? Reach out to us at [customer@wiley.com](mailto:customer@wiley.c
 
 ---
 
-> *"Wiley champions those who see knowledge as a force for good."*  
+> *"Unleash the power of science"*  
 > — Our Mission
 
-Thank you for visiting our GitHub profile! Together, let’s unlock the future through knowledge.
+Thank you for visiting our GitHub profile! Together, let's unlock the future through knowledge.
