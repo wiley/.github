@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/wiley-logo.png" width="450" height="200" alt="Wiley Logo"/></p>
+<p align="center"><img src="https://www.wiley.com/content/dam/global/logos/wiley/Wordmark/Digital/Wiley-Wordmark-black.png" width="450" height="200" alt="Wiley Logo"/></p>
 
 **Transforming knowledge**
 
