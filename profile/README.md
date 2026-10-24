@@ -2,7 +2,7 @@
 
 **Transforming knowledge**
 
-We transform knowledge into accessible and actionable intelligence for today's challenges and tomorrow's possibilities. Through access to trusted research, data, and AI-powered platforms that power progress, we accelerate scientific breakthroughs, support learning, and drive innovation that redefine fields and improve lives. We're your partner in pioneering the future – in a world driven by curiosity and continuous discovery.
+We transform knowledge into accessible and actionable intelligence for today's challenges and tomorrow's possibilities. Through access to trusted research, data, and AI-powered platforms that power progress, we accelerate scientific breakthroughs, support learning, and drive innovation that redefines fields and improves lives. We're your partner in pioneering the future – in a world driven by curiosity and continuous discovery.
 
 ---
 
